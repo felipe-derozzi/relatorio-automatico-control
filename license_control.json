@@ -1,0 +1,9 @@
+{
+  "ativa": true,
+  "versao_minima": "2.0.0",
+  "mensagem": "Ferramenta temporariamente indisponível para manutenção. Tente novamente em alguns minutos.",
+  "mensagem_versao": "Sua versão está desatualizada. Por favor, baixe a versão mais recente.",
+  "mensagem_sucesso": "Ferramenta funcionando normalmente.",
+  "ultima_atualizacao": "2024-12-19T10:00:00Z",
+  "observacoes": "Para desabilitar a ferramenta, altere 'ativa' para false"
+} 
